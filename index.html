@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>DePotrero</title>
+   
+</head>
+
+<body>
+    <div class="container">
+        <header class="menu-hamburguesa">
+
+            <button class="open" id="Open">
+                <i class="bi bi-list"></i>
+            </button>
+            <img class="logo" src="./img/logo/depotrero-logo.png">
+        </header> 
+
+        <aside>
+            <button class="close" id="close-menu">
+                <i class="bi bi-x-circle-fill"></i>
+            </button>
+            <header>
+            
+            </header>
+        
+        <nav>
+            <ul class="menu">
+                <li>
+                    <button id="todos" class=" boton-menu Categoria active">Todos los productos</button></li>
+                <li>
+                    <button id="botines" class=" boton-menu Categoria">Botines</button></li>
+                <li>
+                    <button id="shorts" class=" boton-menu Categoria">Shorts</button></li>
+                <li>
+                    <button id="camisetas" class=" boton-menu Categoria">Camisetas</button></li>
+
+                <li><a class="Carrito boton-menu" href="./carrito.html">Carrito
+                    <span id="numero-carrito" class="Numero">0</span> </a>
+                </li>
+            </ul>
+        </nav>
+        <footer class="redes-footer">
+            <a href="" target="_blank" > 
+                <i class="bi bi-github"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/maximo-facundo-arrinda-6483832aa/ target="_blank" >
+                <i class="bi bi-linkedin"></i>
+            </a>
+        </footer>
+     </aside>
+     <main>
+        
+        <h2  id="TituloPrincipal" class="titulo">Todos los productos</h2>
+        <div id="ContenedorProductos" class="contenedor-productos">
+
+            </div>
+
+        </div>
+     </main>
+
+    </div>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="main.js"></script>
+    <script src="menu.js"></script>
+</body>
+</html>

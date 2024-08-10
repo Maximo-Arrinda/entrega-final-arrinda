@@ -1,0 +1,133 @@
+[ 
+    {
+       "id": "botin1",
+       "titulo": "Botines-f11",
+        "imagen":"./img/botines/botin1.png",
+       "categoria": {
+                "nombre": "Botines",
+               "id": "botines"
+        },
+        "precio": 40000
+    },
+    {
+       "id": "botin2",
+       "titulo": "Botines-f11",
+        "imagen":"./img/botines/botin2.png",
+       "categoria": {
+                "nombre": "Botines",
+               "id": "botines"
+        },
+        "precio": 40000
+    },
+    {
+       "id": "botin3",
+       "titulo": "Botines-f11",
+        "imagen":"./img/botines/botin3.png",
+       "categoria": {
+                "nombre": "Botines",
+               "id": "botines"
+        },
+        "precio": 40000
+    },
+    {
+       "id": "botin4",
+       "titulo": "Botines-f11",
+        "imagen":"./img/botines/botin4.png",
+       "categoria": {
+                "nombre": "botines",
+               "id": "botines"
+        },
+        "precio": 40000
+    },
+
+
+    
+
+    {
+       "id": "camiseta-arg.png",
+       "titulo": "Camiseta",
+        "imagen":"./img/camisetas/camiseta-arg.png",
+       "categoria": {
+                "nombre": "Camisetas",
+               "id": "camisetas"
+        },
+        "precio": 21000
+    },
+    {
+       "id": "camiseta-brc.png",
+       "titulo": "Camiseta",
+        "imagen":"./img/camisetas/camiseta-brc.png",
+       "categoria": {
+                "nombre": "Camisetas",
+               "id": "camisetas"
+        },
+        "precio": 21000
+    },
+    {
+       "id": "camiseta-liv.png",
+       "titulo": "Camiseta",
+        "imagen":"./img/camisetas/camiseta-liv.png",
+       "categoria": {
+                "nombre": "Camisetas",
+               "id": "camisetas"
+        },
+        "precio": 21000
+    },
+    {
+       "id": "camiseta-river.png",
+       "titulo": "Camiseta",
+        "imagen":"./img/camisetas/camiseta-river.png",
+       "categoria": {
+                "nombre": "Camisetas",
+               "id": "camisetas"
+        },
+        "precio": 21000
+    },
+
+
+
+    
+
+
+    {
+       "id": "short-inter.png",
+       "titulo": "Shorts",
+        "imagen":"./img/shorts/short-inter.png",
+       "categoria": {
+                "nombre": "Shorts",
+               "id": "shorts"
+        },
+        "precio": 17000
+    },
+    {
+       "id": "short-liv.png",
+       "titulo": "Shorts",
+        "imagen":"./img/shorts/short-liv.png",
+       "categoria": {
+                "nombre": "Shorts",
+               "id": "shorts"
+        },
+        "precio": 17000
+    },
+    {
+       "id": "short-napoli.png",
+       "titulo": "Shorts",
+        "imagen":"./img/shorts/short-napoli.png",
+       "categoria": {
+                "nombre": "Shorts",
+               "id": "shorts"
+        },
+        "precio": 17000
+    },
+    {
+       "id": "short-river.png",
+       "titulo": "Shorts",
+        "imagen":"./img/shorts/short-river.png",
+       "categoria": {
+                "nombre": "Shorts",
+               "id": "shorts"
+        },
+        "precio": 17000
+    }
+
+]
